@@ -1,0 +1,11 @@
+# optional logs
+*.log
+*.tmp
+.DS_Store
+
+# do not commit upstream clone
+Radioberry-2.x/
+
+# editor junk
+.vscode/
+.idea/
